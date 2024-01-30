@@ -11,9 +11,9 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ### 👇 I'm Here 👇
-<a href="https://inquisitive-watchmaker-ffa.notion.site/Resume-c5c21dfc3bb34a68b4dad5f459db907e"><img alt="Resume" src ="https://img.shields.io/badge/Resume-191919.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://jengdeuk.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-F15B5B.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.youtube.com/@jengdeuk"><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://inquisitive-watchmaker-ffa.notion.site/Resume-c5c21dfc3bb34a68b4dad5f459db907e" target='_blank'><img alt="Resume" src ="https://img.shields.io/badge/Resume-191919.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<a href="https://jengdeuk.tistory.com/" target='_blank'><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-F15B5B.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.youtube.com/@jengdeuk" target='_blank'><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 <br>
 <br>
 

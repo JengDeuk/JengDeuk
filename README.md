@@ -9,11 +9,12 @@
 <br>
 
 <img alt="Unreal" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-57b9d3.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-808080.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
 
 ### 👇 I'm Here 👇
-<a href="https://jengdeuk.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-20C997.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o9JeOCfIVm7b0mFEh9dh6y3WLFsEkeh5/view?usp=share_link)
+<a href="https://jengdeuk.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-F15B5B.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe"><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <br>
 <br>
 

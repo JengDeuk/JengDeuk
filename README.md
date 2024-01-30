@@ -3,7 +3,8 @@
 ### Studying With
 
 <img alt="Unreal" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-808080.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>  
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="DirectX" src ="https://img.shields.io/badge/DirectX-107C11.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>
 <br>
 <img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
 <img alt="Csharp" src ="https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>

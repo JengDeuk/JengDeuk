@@ -22,6 +22,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jengdeuk)](https://solved.ac/jengdeuk/)
 <br/>
 
-![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient)
-
 </div>

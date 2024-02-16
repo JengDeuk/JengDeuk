@@ -1,7 +1,7 @@
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Jengdeuk&fontSize=40&fontAlign=50&fontAlignY=38&color=gradient)
-  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=Jengdeuk&fontSize=40&fontAlign=50&fontAlignY=30&color=gradient)
+
 ### Studying With
 
 <img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>

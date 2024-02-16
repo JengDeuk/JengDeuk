@@ -1,5 +1,7 @@
 <div align="center">
   
+![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Jengdeuk&fontSize=40&fontAlign=50&fontAlignY=35&desc=@jengdeuk&descAlign=50&descAlignY=60&color=gradient)
+  
 ### Studying With
 
 <img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
@@ -19,5 +21,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jengdeuk)](https://solved.ac/jengdeuk/)
 <br/>
+
+![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient)
 
 </div>

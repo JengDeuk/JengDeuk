@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=venom&height=250&text=Jengdeuk&fontSize=50&color=gradient&customColorList=19) <!--0,2,5,9,17,19,21,23--> <!--19-->
 
-![🛠️ Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack&align=center&titleAlign=center&borderRadius=10&fontSize=22&lineHeight=5&lineCount=2&gap=5&width=350&bg=%230a192f&badge=%23192e4c&border=%23ffffff&titleColor=%23ffffff&line1=cplusplus%2CC%2B%2B%2C00599C%3Bcsharp%2Cc%2523%2C512BD4%3Bpython%2Cpython%2C3776AB%3B&line2=unrealEngine%2Cunreal%2Cffffff%3Bunity%2Cunity%2Cffffff%3Bxbox%2Cdirectx%2C107C10%3B)
+![🛠️ Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack&align=center&titleAlign=center&borderRadius=10&fontSize=22&lineHeight=5&lineCount=2&gap=5&width=350&bg=%230a192f&badge=%23192e4c&border=%23ffffff&titleColor=%23ffffff&line1=cplusplus%2CC%2B%2B%2C00599C%3Bcsharp%2Cc%2523%2C512BD4%3Bpython%2Cpython%2C3776AB%3B&line2=unrealengine%2CUnreal%2C0E1128%3Bunity%2Cunity%2CFFFFFF%3Bxbox%2Cdirectx%2C107C10%3B)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jengdeuk)](https://solved.ac/jengdeuk/)
 

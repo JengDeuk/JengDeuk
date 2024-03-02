@@ -6,8 +6,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jengdeuk)](https://solved.ac/jengdeuk/)
 
-<a href="https://bit.ly/Jengdeuk" target='_blank'><img alt="Notion" src ="https://img.shields.io/badge/Notion-191919.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://jengdeuk.tistory.com/" target='_blank'><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-F15B5B.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://bit.ly/Jengdeuk" target='_blank'><img alt="Notion" src ="https://img.shields.io/badge/Notion-191919.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>　
+<a href="https://jengdeuk.tistory.com/" target='_blank'><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-F15B5B.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>　
 <a href="https://www.youtube.com/@jengdeuk" target='_blank'><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 
 </div>

@@ -13,6 +13,6 @@
 </div>
 
 <!--[![OPGC](https://api.opgc.me/githubs/users/jengdeuk/tag/?theme=basic)](https://opgc.me/#/users/jengdeuk)-->
-<!--[![Solved.ac Arena Badge](https://ac-arena.vercel.app/v1/jengdeuk)](https://solved.ac/jengdeuk/)-->
 <!--[![Solved.ac Zandi](http://mazandi.herokuapp.com/api?handle=jengdeuk&theme=cold)](https://solved.ac/jengdeuk/)-->
+<!--[![Solved.ac Arena Badge](https://solvedac.junah.dev/v1/generate_badge?handle=jengdeuk)](https://solved.ac/profile/jengdeuk/arena)-->
 <!--[![Solved.ac Profile2](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jengdeuk)](https://solved.ac/jengdeuk/)-->

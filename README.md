@@ -8,7 +8,7 @@
 
 <a href="https://bit.ly/Jengdeuk" target='_blank'><img alt="Resume" src ="https://img.shields.io/badge/Resume-0D1117.svg?&style=for-the-badge&logo=Notion&logoColor=gray"/></a>
 <a href="https://jengdeuk.tistory.com/" target='_blank'><img alt="Blog" src ="https://img.shields.io/badge/Blog-0D1117.svg?&style=for-the-badge&logo=Tistory&logoColor=orange"/></a>
-<a href="https://www.youtube.com/@jengdeuk" target='_blank'><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-0D1117.svg?&style=for-the-badge&logo=Youtube&logoColor=red"/></a>
+<a href="https://www.youtube.com/@jengdeuk" target='_blank'><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-0D1117.svg?&style=for-the-badge&logo=Youtube&logoColor=red"/></a>
 
 </div>
 
